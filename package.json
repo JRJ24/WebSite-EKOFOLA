@@ -1,15 +1,14 @@
 {
   "name": "webalofoke",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev":"astro dev",
     "build":"astro build",
     "preview":"astro preview"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonaifry Rodriguez",
   "license": "MIT",
   "packageManager": "pnpm@10.15.1",
   "dependencies": {
